@@ -1,7 +1,3 @@
-Sure! Here’s a **nutshell summary** of how to set up **RDP (Remote Desktop) on Codespace** and easily reconnect next time.
-
----
-
 ### **💡 Step-by-Step Process to Set Up RDP in Codespace**
 ---
 
